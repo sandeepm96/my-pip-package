@@ -2,15 +2,15 @@
 
 ### Install
 ```
-pip install prosandy
+pip install randomfacts
 ```
 
 ### Import
 ```
-from prosandy import randomfact
+from randomfacts import sandeep
 ```
 
 ### Usage
 ```
-randomfact.show()
+sandeep.says()
 ```
